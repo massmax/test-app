@@ -1,0 +1,14 @@
+<entity-mappings	version="1.0"
+					xmlns="http://java.sun.com/xml/ns/persistence/orm"
+					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+					xsi:schemaLocation="http://java.sun.com/xml/ns/persistence/orm
+										http://java.sun.com/xml/ns/persistence/orm_1_0.xsd" >
+
+	<entity class="ru.yma.lec7.entities.Category" />
+	<entity class="ru.yma.lec7.entities.Customer" />
+	<entity class="ru.yma.lec7.entities.Order" />
+	<entity class="ru.yma.lec7.entities.OrderItem" />
+	<entity class="ru.yma.lec7.entities.Product" />
+	<entity class="ru.yma.lec7.entities.Warehouse" />
+
+</entity-mappings>
